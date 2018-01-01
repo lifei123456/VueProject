@@ -1,0 +1,32 @@
+[
+    {
+      "id": 0
+    },
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "admin",
+      "Headmaster":"李强",
+      "work":"班长",
+      "entranceTime":"2013-9-1",
+      "graduationTime":"2017-7-1"
+    },
+    {
+      "id": 2,
+      "username": "bbb",
+      "password": "bbb",
+      "Headmaster": "张红",
+      "work":"组长",
+      "entranceTime":"2014-9-1",
+      "graduationTime":"在读"
+    },
+    {
+      "id": 3,
+      "username": "ccc",
+      "password": "ccc",
+      "Headmaster": "李晓军",
+      "work":"学生",
+      "entranceTime":"2014-9-1",
+      "graduationTime":"在读"
+    }
+  ]

@@ -1,0 +1,498 @@
+[
+    {
+      "day" : "Monday",
+      "course" : [
+        {
+          "startTime" : "7:40",
+          "endTime" : "8:00",
+          "subject" : "早读1",
+          "teacher" : "-"
+        },
+        {
+          "startTime" : "8:00",
+          "endTime" : "8:45",
+          "subject" : "数学1",
+          "teacher" : "张红"
+        },
+        {
+          "startTime" : "8:55",
+          "endTime" : "9:40",
+          "subject" : "语言E1",
+          "teacher" : "李晓军"
+        },
+        {
+          "startTime" : "9:40",
+          "endTime" : "10:10",
+          "subject" : "课堂操1",
+          "teacher" : "-"
+        },
+        {
+          "startTime" : "10:00",
+          "endTime" : "10:45",
+          "subject" : "语文1",
+          "teacher" : "李晓军"
+        },
+        {
+          "startTime" : "10:45",
+          "endTime" : "11:05",
+          "subject" : "眼保健操1",
+          "teacher" : "-"
+        },
+        {
+          "startTime" : "11:05",
+          "endTime" : "11:50",
+          "subject" : "语文1",
+          "teacher" : "李晓军"
+        },
+        {
+          "startTime" : "11:50",
+          "endTime" : "14:00",
+          "subject" : "午休1",
+          "teacher" : "-"
+        },
+        {
+          "startTime" : "14:00",
+          "endTime" : "14:45",
+          "subject" : "语文1",
+          "teacher" : "李晓军"
+        },
+        {
+          "startTime" : "14:55",
+          "endTime" : "15:40",
+          "subject" : "语文1",
+          "teacher" : "李晓军"
+        },
+        {
+          "startTime" : "15:50",
+          "endTime" : "16:35",
+          "subject" : "语文1",
+          "teacher" : "李晓军"
+        }
+      ]
+    },
+    {
+      "day" : "Tuesday",
+      "course" : [
+        {
+          "startTime" : "7:40",
+          "endTime" : "8:00",
+          "subject" : "早读2",
+          "teacher" : "-"
+        },
+        {
+          "startTime" : "8:00",
+          "endTime" : "8:45",
+          "subject" : "数学2",
+          "teacher" : "张红"
+        },
+        {
+          "startTime" : "8:55",
+          "endTime" : "9:40",
+          "subject" : "语言E2",
+          "teacher" : "李晓军"
+        },
+        {
+          "startTime" : "9:40",
+          "endTime" : "10:10",
+          "subject" : "课堂操2",
+          "teacher" : "-"
+        },
+        {
+          "startTime" : "10:00",
+          "endTime" : "10:45",
+          "subject" : "语文2",
+          "teacher" : "李晓军"
+        },
+        {
+          "startTime" : "10:45",
+          "endTime" : "11:05",
+          "subject" : "眼保健操2",
+          "teacher" : "-"
+        },
+        {
+          "startTime" : "11:05",
+          "endTime" : "11:50",
+          "subject" : "语文2",
+          "teacher" : "李晓军"
+        },
+        {
+          "startTime" : "11:50",
+          "endTime" : "14:00",
+          "subject" : "午休2",
+          "teacher" : "-"
+        },
+        {
+          "startTime" : "14:00",
+          "endTime" : "14:45",
+          "subject" : "语文2",
+          "teacher" : "李晓军"
+        },
+        {
+          "startTime" : "14:55",
+          "endTime" : "15:40",
+          "subject" : "语文2",
+          "teacher" : "李晓军"
+        },
+        {
+          "startTime" : "15:50",
+          "endTime" : "16:35",
+          "subject" : "语文2",
+          "teacher" : "李晓军"
+        }
+      ]
+    },
+     {
+      "day" : "Wednesday",
+      "course" : [
+        {
+          "startTime" : "7:40",
+          "endTime" : "8:00",
+          "subject" : "早读",
+          "teacher" : "-"
+        },
+        {
+          "startTime" : "8:00",
+          "endTime" : "8:45",
+          "subject" : "数学",
+          "teacher" : "张红"
+        },
+        {
+          "startTime" : "8:55",
+          "endTime" : "9:40",
+          "subject" : "语言E",
+          "teacher" : "李晓军"
+        },
+        {
+          "startTime" : "9:40",
+          "endTime" : "10:10",
+          "subject" : "课堂操",
+          "teacher" : "-"
+        },
+        {
+          "startTime" : "10:00",
+          "endTime" : "10:45",
+          "subject" : "语文",
+          "teacher" : "李晓军"
+        },
+        {
+          "startTime" : "10:45",
+          "endTime" : "11:05",
+          "subject" : "眼保健操",
+          "teacher" : "-"
+        },
+        {
+          "startTime" : "11:05",
+          "endTime" : "11:50",
+          "subject" : "语文",
+          "teacher" : "李晓军"
+        },
+        {
+          "startTime" : "11:50",
+          "endTime" : "14:00",
+          "subject" : "午休",
+          "teacher" : "-"
+        },
+        {
+          "startTime" : "14:00",
+          "endTime" : "14:45",
+          "subject" : "语文",
+          "teacher" : "李晓军"
+        },
+        {
+          "startTime" : "14:55",
+          "endTime" : "15:40",
+          "subject" : "语文",
+          "teacher" : "李晓军"
+        },
+        {
+          "startTime" : "15:50",
+          "endTime" : "16:35",
+          "subject" : "语文",
+          "teacher" : "李晓军"
+        }
+      ]
+    }, {
+      "day" : "Thursday",
+      "course" : [
+        {
+          "startTime" : "7:40",
+          "endTime" : "8:00",
+          "subject" : "早读",
+          "teacher" : "-"
+        },
+        {
+          "startTime" : "8:00",
+          "endTime" : "8:45",
+          "subject" : "数学",
+          "teacher" : "张红"
+        },
+        {
+          "startTime" : "8:55",
+          "endTime" : "9:40",
+          "subject" : "语言E",
+          "teacher" : "李晓军"
+        },
+        {
+          "startTime" : "9:40",
+          "endTime" : "10:10",
+          "subject" : "课堂操",
+          "teacher" : "-"
+        },
+        {
+          "startTime" : "10:00",
+          "endTime" : "10:45",
+          "subject" : "语文",
+          "teacher" : "李晓军"
+        },
+        {
+          "startTime" : "10:45",
+          "endTime" : "11:05",
+          "subject" : "眼保健操",
+          "teacher" : "-"
+        },
+        {
+          "startTime" : "11:05",
+          "endTime" : "11:50",
+          "subject" : "语文",
+          "teacher" : "李晓军"
+        },
+        {
+          "startTime" : "11:50",
+          "endTime" : "14:00",
+          "subject" : "午休",
+          "teacher" : "-"
+        },
+        {
+          "startTime" : "14:00",
+          "endTime" : "14:45",
+          "subject" : "语文",
+          "teacher" : "李晓军"
+        },
+        {
+          "startTime" : "14:55",
+          "endTime" : "15:40",
+          "subject" : "语文",
+          "teacher" : "李晓军"
+        },
+        {
+          "startTime" : "15:50",
+          "endTime" : "16:35",
+          "subject" : "语文",
+          "teacher" : "李晓军"
+        }
+      ]
+    }, {
+      "day" : "Friday",
+      "course" : [
+        {
+          "startTime" : "7:40",
+          "endTime" : "8:00",
+          "subject" : "早读",
+          "teacher" : "-"
+        },
+        {
+          "startTime" : "8:00",
+          "endTime" : "8:45",
+          "subject" : "数学",
+          "teacher" : "张红"
+        },
+        {
+          "startTime" : "8:55",
+          "endTime" : "9:40",
+          "subject" : "语言E",
+          "teacher" : "李晓军"
+        },
+        {
+          "startTime" : "9:40",
+          "endTime" : "10:10",
+          "subject" : "课堂操",
+          "teacher" : "-"
+        },
+        {
+          "startTime" : "10:00",
+          "endTime" : "10:45",
+          "subject" : "语文",
+          "teacher" : "李晓军"
+        },
+        {
+          "startTime" : "10:45",
+          "endTime" : "11:05",
+          "subject" : "眼保健操",
+          "teacher" : "-"
+        },
+        {
+          "startTime" : "11:05",
+          "endTime" : "11:50",
+          "subject" : "语文",
+          "teacher" : "李晓军"
+        },
+        {
+          "startTime" : "11:50",
+          "endTime" : "14:00",
+          "subject" : "午休",
+          "teacher" : "-"
+        },
+        {
+          "startTime" : "14:00",
+          "endTime" : "14:45",
+          "subject" : "语文",
+          "teacher" : "李晓军"
+        },
+        {
+          "startTime" : "14:55",
+          "endTime" : "15:40",
+          "subject" : "语文",
+          "teacher" : "李晓军"
+        },
+        {
+          "startTime" : "15:50",
+          "endTime" : "16:35",
+          "subject" : "语文",
+          "teacher" : "李晓军"
+        }
+      ]
+    },
+    {
+      "day" : "Saturday",
+      "course" : [
+        {
+          "startTime" : "7:40",
+          "endTime" : "8:00",
+          "subject" : "早读",
+          "teacher" : "-"
+        },
+        {
+          "startTime" : "8:00",
+          "endTime" : "8:45",
+          "subject" : "数学",
+          "teacher" : "张红"
+        },
+        {
+          "startTime" : "8:55",
+          "endTime" : "9:40",
+          "subject" : "语言E",
+          "teacher" : "李晓军"
+        },
+        {
+          "startTime" : "9:40",
+          "endTime" : "10:10",
+          "subject" : "课堂操",
+          "teacher" : "-"
+        },
+        {
+          "startTime" : "10:00",
+          "endTime" : "10:45",
+          "subject" : "语文",
+          "teacher" : "李晓军"
+        },
+        {
+          "startTime" : "10:45",
+          "endTime" : "11:05",
+          "subject" : "眼保健操",
+          "teacher" : "-"
+        },
+        {
+          "startTime" : "11:05",
+          "endTime" : "11:50",
+          "subject" : "语文",
+          "teacher" : "李晓军"
+        },
+        {
+          "startTime" : "11:50",
+          "endTime" : "14:00",
+          "subject" : "午休",
+          "teacher" : "-"
+        },
+        {
+          "startTime" : "14:00",
+          "endTime" : "14:45",
+          "subject" : "语文",
+          "teacher" : "李晓军"
+        },
+        {
+          "startTime" : "14:55",
+          "endTime" : "15:40",
+          "subject" : "语文",
+          "teacher" : "李晓军"
+        },
+        {
+          "startTime" : "15:50",
+          "endTime" : "16:35",
+          "subject" : "语文",
+          "teacher" : "李晓军"
+        }
+      ]
+    },
+    {
+      "day" : "Sunday",
+      "course" : [
+        {
+          "startTime" : "7:40",
+          "endTime" : "8:00",
+          "subject" : "早读",
+          "teacher" : "-"
+        },
+        {
+          "startTime" : "8:00",
+          "endTime" : "8:45",
+          "subject" : "数学",
+          "teacher" : "张红"
+        },
+        {
+          "startTime" : "8:55",
+          "endTime" : "9:40",
+          "subject" : "语言E",
+          "teacher" : "李晓军"
+        },
+        {
+          "startTime" : "9:40",
+          "endTime" : "10:10",
+          "subject" : "课堂操",
+          "teacher" : "-"
+        },
+        {
+          "startTime" : "10:00",
+          "endTime" : "10:45",
+          "subject" : "语文",
+          "teacher" : "李晓军"
+        },
+        {
+          "startTime" : "10:45",
+          "endTime" : "11:05",
+          "subject" : "眼保健操",
+          "teacher" : "-"
+        },
+        {
+          "startTime" : "11:05",
+          "endTime" : "11:50",
+          "subject" : "语文",
+          "teacher" : "李晓军"
+        },
+        {
+          "startTime" : "11:50",
+          "endTime" : "14:00",
+          "subject" : "午休",
+          "teacher" : "-"
+        },
+        {
+          "startTime" : "14:00",
+          "endTime" : "14:45",
+          "subject" : "语文",
+          "teacher" : "李晓军"
+        },
+        {
+          "startTime" : "14:55",
+          "endTime" : "15:40",
+          "subject" : "语文",
+          "teacher" : "李晓军"
+        },
+        {
+          "startTime" : "15:50",
+          "endTime" : "16:35",
+          "subject" : "语文",
+          "teacher" : "李晓军"
+        }
+      ]
+    }
+  ]
+ 
